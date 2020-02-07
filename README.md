@@ -1,4 +1,6 @@
-# OpenJDK 8 + Maven 3 in an Ubuntu box
+# OpenJDK 8 + Maven 3 in a stable Ubuntu box
+
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Build Status](https://travis-ci.com/miniit-labs/openjdk8-maven3-ubuntu-latest-docker.svg?branch=master)](https://travis-ci.com/miniit-labs/openjdk8-maven3-ubuntu-latest-docker)
 
 Just a simple (but **powerful** and **useful**) docker image using the stable version of Ubuntu:
 
